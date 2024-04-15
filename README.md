@@ -1,6 +1,8 @@
 
 # LunaTranslator 使用说明
 
+## 这个教程的对应的版本非常老旧，仅供参考。由于作者只会写代码，不擅长写文档类的东西，欢迎觉得有帮助的朋友一起完善。[文档地址](https://github.com/HIllya51/LunaTranslator_tutorial)
+
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL%203.0-dfd.svg"></a>
     <a href="https://github.com/HIllya51/LunaTranslator/releases"><img src="https://img.shields.io/github/v/release/HIllya51/LunaTranslator?color=ffa"></a>
