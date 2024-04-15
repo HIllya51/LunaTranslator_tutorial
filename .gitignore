@@ -1,0 +1,205 @@
+
+BrowserMetrics-spare.pma
+BrowserMetrics/BrowserMetrics-6399ECA4-3AA4.pma
+Crashpad/metadata
+Crashpad/settings.dat
+CrashpadMetrics-active.pma
+Default/Affiliation Database
+Default/Affiliation Database-journal
+Default/AutofillStrikeDatabase/LOCK
+Default/AutofillStrikeDatabase/LOG
+Default/BudgetDatabase/LOCK
+Default/BudgetDatabase/LOG
+Default/Cache/Cache_Data/data_0
+Default/Cache/Cache_Data/data_1
+Default/Cache/Cache_Data/data_2
+Default/Cache/Cache_Data/data_3
+Default/Cache/Cache_Data/f_000001
+Default/Cache/Cache_Data/index
+Default/Code Cache/js/index
+Default/Code Cache/js/index-dir/the-real-index
+Default/Code Cache/wasm/index
+Default/Code Cache/wasm/index-dir/the-real-index
+Default/commerce_subscription_db/LOCK
+Default/commerce_subscription_db/LOG
+Default/coupon_db/LOCK
+Default/coupon_db/LOG
+Default/DawnCache/data_0
+Default/DawnCache/data_1
+Default/DawnCache/data_2
+Default/DawnCache/data_3
+Default/DawnCache/index
+Default/Download Service/EntryDB/LOCK
+Default/Download Service/EntryDB/LOG
+Default/Extension Rules/000003.log
+Default/Extension Rules/CURRENT
+Default/Extension Rules/LOCK
+Default/Extension Rules/LOG
+Default/Extension Rules/MANIFEST-000001
+Default/Extension Scripts/000003.log
+Default/Extension Scripts/CURRENT
+Default/Extension Scripts/LOCK
+Default/Extension Scripts/LOG
+Default/Extension Scripts/MANIFEST-000001
+Default/Extension State/000003.log
+Default/Extension State/CURRENT
+Default/Extension State/LOCK
+Default/Extension State/LOG
+Default/Extension State/MANIFEST-000001
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/_locales/zh_CN/messages.json
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/_locales/zh_TW/messages.json
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/_metadata/verified_contents.json
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/background.html
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/background.js
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/close@2x.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/extension_logo.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/icon19_disabled.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/icon19_normal.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/icon19_pageDisable.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/install_logo.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/logo@2x.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/menu_logo.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/images/tick.png
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/js/xl-content.css
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/js/xl-content.js
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/manifest.json
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/popup.html
+Default/Extensions/ncennffkjdiamlpmcbajkmaiiiddgioo/3.27_0/popup.js
+Default/Favicons
+Default/Favicons-journal
+Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+Default/Feature Engagement Tracker/AvailabilityDB/LOG
+Default/Feature Engagement Tracker/EventDB/LOCK
+Default/Feature Engagement Tracker/EventDB/LOG
+Default/GCM Store/Encryption/000003.log
+Default/GCM Store/Encryption/CURRENT
+Default/GCM Store/Encryption/LOCK
+Default/GCM Store/Encryption/LOG
+Default/GCM Store/Encryption/MANIFEST-000001
+Default/GPUCache/data_0
+Default/GPUCache/data_1
+Default/GPUCache/data_2
+Default/GPUCache/data_3
+Default/GPUCache/index
+Default/heavy_ad_intervention_opt_out.db
+Default/heavy_ad_intervention_opt_out.db-journal
+Default/History
+Default/History-journal
+Default/Local Storage/leveldb/000003.log
+Default/Local Storage/leveldb/CURRENT
+Default/Local Storage/leveldb/LOCK
+Default/Local Storage/leveldb/LOG
+Default/Local Storage/leveldb/MANIFEST-000001
+Default/LOCK
+Default/LOG
+Default/Login Data
+Default/Login Data For Account
+Default/Login Data For Account-journal
+Default/Login Data-journal
+Default/Network Action Predictor
+Default/Network Action Predictor-journal
+Default/Network/Cookies
+Default/Network/Cookies-journal
+Default/Network/Network Persistent State
+Default/Network/NetworkDataMigrated
+Default/Network/Reporting and NEL
+Default/Network/Reporting and NEL-journal
+Default/Network/TransportSecurity
+Default/optimization_guide_hint_cache_store/LOCK
+Default/optimization_guide_hint_cache_store/LOG
+Default/optimization_guide_model_metadata_store/LOCK
+Default/optimization_guide_model_metadata_store/LOG
+Default/optimization_guide_prediction_model_downloads/025d4089-9ef7-4d2a-aecf-b09b2e8619e7/model.tflite
+Default/optimization_guide_prediction_model_downloads/5a70d944-df65-41c0-a8f5-dfe44bb3e5dd/model.tflite
+Default/optimization_guide_prediction_model_downloads/7cc0aa38-11a7-4e11-a1ca-8ad007e63068/model.tflite
+Default/Preferences
+Default/PreferredApps
+Default/Safe Browsing Network/NetworkDataMigrated
+Default/Safe Browsing Network/Safe Browsing Cookies
+Default/Safe Browsing Network/Safe Browsing Cookies-journal
+Default/Secure Preferences
+Default/Segmentation Platform/SegmentInfoDB/LOCK
+Default/Segmentation Platform/SegmentInfoDB/LOG
+Default/Segmentation Platform/SignalDB/LOCK
+Default/Segmentation Platform/SignalDB/LOG
+Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+Default/Segmentation Platform/SignalStorageConfigDB/LOG
+Default/Session Storage/000003.log
+Default/Session Storage/CURRENT
+Default/Session Storage/LOCK
+Default/Session Storage/LOG
+Default/Session Storage/MANIFEST-000001
+Default/Sessions/Session_13315505575245558
+Default/shared_proto_db/000003.log
+Default/shared_proto_db/CURRENT
+Default/shared_proto_db/LOCK
+Default/shared_proto_db/LOG
+Default/shared_proto_db/MANIFEST-000001
+Default/shared_proto_db/metadata/000003.log
+Default/shared_proto_db/metadata/CURRENT
+Default/shared_proto_db/metadata/LOCK
+Default/shared_proto_db/metadata/LOG
+Default/shared_proto_db/metadata/MANIFEST-000001
+Default/Shortcuts
+Default/Shortcuts-journal
+Default/Site Characteristics Database/000003.log
+Default/Site Characteristics Database/CURRENT
+Default/Site Characteristics Database/LOCK
+Default/Site Characteristics Database/LOG
+Default/Site Characteristics Database/MANIFEST-000001
+Default/Sync Data/LevelDB/000003.log
+Default/Sync Data/LevelDB/CURRENT
+Default/Sync Data/LevelDB/LOCK
+Default/Sync Data/LevelDB/LOG
+Default/Sync Data/LevelDB/MANIFEST-000001
+Default/Top Sites
+Default/Top Sites-journal
+Default/trusted_vault.pb
+Default/Visited Links
+Default/Web Data
+Default/Web Data-journal
+First Run
+GrShaderCache/data_0
+GrShaderCache/data_1
+GrShaderCache/data_2
+GrShaderCache/data_3
+GrShaderCache/f_000001
+GrShaderCache/f_000002
+GrShaderCache/f_000003
+GrShaderCache/f_000004
+GrShaderCache/f_000005
+GrShaderCache/f_000006
+GrShaderCache/index
+Last Browser
+Last Version
+Local State
+lockfile
+Module Info Cache
+pnacl/0.57.44.2492/_metadata/verified_contents.json
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_pnacl_json
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_for_eh_o
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_o
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtend_o
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_ld_nexe
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libcrt_platform_a
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libgcc_a
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_a
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_dummy_a
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_llc_nexe
+pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_sz_nexe
+pnacl/0.57.44.2492/manifest.fingerprint
+pnacl/0.57.44.2492/manifest.json
+ShaderCache/data_0
+ShaderCache/data_1
+ShaderCache/data_2
+ShaderCache/data_3
+ShaderCache/index
+Variations
+RecoveryImproved/1.3.36.141/_metadata/verified_contents.json
+RecoveryImproved/1.3.36.141/manifest.fingerprint
+RecoveryImproved/1.3.36.141/manifest.json
+RecoveryImproved/1.3.36.141/Recovery.crx3
+OptimizationHints/371/_metadata/verified_contents.json
+OptimizationHints/371/manifest.fingerprint
+OptimizationHints/371/manifest.json
+OptimizationHints/371/optimization-hints.pb
