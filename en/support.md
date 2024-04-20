@@ -2,7 +2,4 @@
  
 # Support author
  
-If you feel that the software is helpful to you, you are welcome to scan WeChat code or go to [afdian](https://afdian.net/a/HIllya51) to sponsor. Thank you ~
-
-
-<img src='./zh/pics/zan.jpg' height=500 width=500>
+If you feel that the software is helpful to you, welcome to become my [sponsor](https://patreon.com/HIllya51). Thank you ~ 

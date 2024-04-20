@@ -6,7 +6,7 @@
 
 ## 通用按钮/剪贴板模式
 
-<div align="center"><img src='./zh/pics/toolbar1.jpg'></div> 
+![img](pics/toolbar1.jpg) 
 
 > 这是一些通用的按钮，在剪贴板模式下会显示这些按钮，从左到右依次是
 
@@ -41,7 +41,7 @@
 
 ## OCR模式按钮
 
-<div align="center"><img src='./zh/pics/toolbar2.jpg'></div> 
+![img](pics/toolbar2.jpg) 
 
 > OCR模型下会比剪贴板模型下多出三个按钮
 
@@ -54,7 +54,7 @@
 
 ## HOOK模式按钮
 
-<div align="center"><img src='./zh/pics/toolbar3.jpg'></div> 
+![img](pics/toolbar3.jpg) 
 
 > HOOK模型下会比剪贴板模型下多出2个按钮
 

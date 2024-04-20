@@ -1,4 +1,4 @@
  
 # Поддержать автора программы
  
-Если Вы считаете, что это программное обеспечение полезно для Вас, Вы можете проспонсировать меня на [Aidaifa](https://afdian.net/a/HIllya51). Спасибо за поддержку!
+If you feel that the software is helpful to you, welcome to become my [sponsor](https://patreon.com/HIllya51). Thank you ~ 

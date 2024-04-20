@@ -14,7 +14,7 @@
 
 默认是使用剪切板模型，此时会自动提取剪切板文本并进行翻译。
 
-<div align="center"><img src='./zh/pics/5.jpg'></div>
+![img](pics/5.jpg)
 
 
 ## 翻译设置 
@@ -41,7 +41,7 @@
 
 对于预翻译，可以采用模糊匹配（主要对于OCR模式比较有效）。
 
-<div align="center"><img src='./zh/pics/6.jpg'></div>
+![img](pics/6.jpg)
 
 
 ## HOOK设置
@@ -63,7 +63,7 @@ LocaleEmulator设置可以设置LocaleEmulator的路径（新版本已内置）�
 
 [➔ 具体用法详见HOOK说明](hooksetsumei.md)
 
-<div align="center"><img src='./zh/pics/21.jpg'></div>
+![img](pics/21.jpg)
 
  
 ## OCR设置
@@ -82,7 +82,7 @@ WindowsOCR需要操作系统中安装日语相关组件。
 
 [➔ 具体用法详见OCR说明](ocrsetsumei.md)
 
-<div align="center"><img src='./zh/pics/22.jpg'></div>
+![img](pics/22.jpg)
 
 
 ## 显示设置
@@ -100,22 +100,22 @@ WindowsOCR需要操作系统中安装日语相关组件。
 可选取模式下可以在翻译窗口中选取内容。
 
 
-<div align="center"><img src='./zh/pics/7.jpg'></div>
+![img](pics/7.jpg)
 
 四种字体样式如下
 
-<div align="center"><img src='./zh/pics/ziti1.jpg'></div>
-<div align="center"><img src='./zh/pics/ziti2.jpg'></div>
-<div align="center"><img src='./zh/pics/ziti3.jpg'></div>
-<div align="center"><img src='./zh/pics/ziti4.jpg'></div>
+![img](pics/ziti1.jpg)
+![img](pics/ziti2.jpg)
+![img](pics/ziti3.jpg)
+![img](pics/ziti4.jpg)
 
 假名显示如下
 
-<div align="center"><img src='./zh/pics/jiaming.jpg'></div>
+![img](pics/jiaming.jpg)
 
 分词显示如下
 
-<div align="center"><img src='./zh/pics/fenci.jpg'></div>
+![img](pics/fenci.jpg)
 
 
  
@@ -130,7 +130,7 @@ VoiceRoid2是离线翻译引擎。
 
 VOICEVOX是一个开源TTS引擎，但是生成语音速度较慢。
 
-<div align="center"><img src='./zh/pics/8.jpg'></div>
+![img](pics/8.jpg)
 
 
  
@@ -153,7 +153,7 @@ VOICEVOX是一个开源TTS引擎，但是生成语音速度较慢。
 
 如果用户了解python语言，可以直接在LunaTranslator\LunaTranslator\postprocess\post.py文件中直接进行修改即可实现用户想要的任何处理过程。
 
-<div align="center"><img src='./zh/pics/10.jpg'></div>
+![img](pics/10.jpg)
 
  
 
@@ -169,23 +169,23 @@ VOICEVOX是一个开源TTS引擎，但是生成语音速度较慢。
 
 开启快捷查词后，点击翻译窗口的原文，会弹出查词窗口。
 
-<div align="center"><img src='./zh/pics/cishu.jpg'></div>
+![img](pics/cishu.jpg)
 
 
-<div align="center"><img src='./zh/pics/fenci.jpg'></div>
-<div align="center"><img src='./zh/pics/searchword.jpg'></div>
-<div align="center"><img src='./zh/pics/searchword2.jpg'></div>
+![img](pics/fenci.jpg)
+![img](pics/searchword.jpg)
+![img](pics/searchword2.jpg)
 
 ## 资源下载更新
  
 自动更新以及一些常用资源的链接。
 
 
-<div align="center"><img src='./zh/pics/down.jpg'></div>
+![img](pics/down.jpg)
  
 
 ## 快捷键设置
 
 开启使用快捷键后，开启指定的快捷键设置，并进行对应的设置。
 
-<div align="center"><img src='./zh/pics/quick.jpg'></div>
+![img](pics/quick.jpg)

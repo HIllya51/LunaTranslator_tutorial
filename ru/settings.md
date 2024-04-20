@@ -14,7 +14,7 @@
 
 &emsp;&emsp;При выборе источника "буфер обмена", весь копируемый Вами текст будет автоматически извлекаться из буфера обмена и переводиться.
 
-<div align="center"><img src='./ru/pics/5_ru.png'></div>
+![img](pics/5_ru.png)
 
 
 ## Настройки переводчиков
@@ -40,7 +40,7 @@
 
 Для предварительного перевода можно использовать нечеткое сопоставление (в основном эффективно для режима OCR).
 
-<div align="center"><img src='./ru/pics/6_ru.png'></div>
+![img](pics/6_ru.png)
 
 
 ## Настройки HOOK
@@ -62,7 +62,7 @@
 
 [➔ Более полное описание смотри в "Описании HOOK"](/ru/hooksetsumei.md)
 
-<div align="center"><img src='./ru/pics/21_ru.png'></div>
+![img](pics/21_ru.png)
 
  
 ## Настройки OCR
@@ -81,7 +81,7 @@
 
 [➔ Подробности смотри в "Описание OCR"](/ru/ocrsetsumei.md)
 
-<div align="center"><img src='./ru/pics/22_ru.png'></div>
+![img](pics/22_ru.png)
 
 
 ## Настройка окна перевода
@@ -99,22 +99,22 @@
 Вы можете ** выбрать контент в окне перевода** , а также настроить реакцию окна перевода на сворачивание игры в режиме HOOK.
 
 
-<div align="center"><img src='./ru/pics/7_ru.png'></div>
+![img](pics/7_ru.png)
 
 Четыре стиля шрифта следующие:
 
-<div align="center"><img src='./ru/pics/ziti1_ru.png'></div>
-<div align="center"><img src='./ru/pics/ziti2_ru.png'></div>
-<div align="center"><img src='./ru/pics/ziti3_ru.png'></div>
-<div align="center"><img src='./ru/pics/ziti4_ru.png'></div>
+![img](pics/ziti1_ru.png)
+![img](pics/ziti2_ru.png)
+![img](pics/ziti3_ru.png)
+![img](pics/ziti4_ru.png)
 
 Кана отображается следующим образом:
 
-<div align="center"><img src='./ru/pics/jiaming_ru.png'></div>
+![img](pics/jiaming_ru.png)
 
 Причастие отображается следующим образом:
 
-<div align="center"><img src='./ru/pics/fenci_ru.png'></div>
+![img](pics/fenci_ru.png)
 
 
  
@@ -129,7 +129,7 @@
 
 ** VOICEVOX**  — это механизм TTS с открытым исходным кодом, но он медленно генерирует голос.
 
-<div align="center"><img src='./ru/pics/8_ru.png'></div>
+![img](pics/8_ru.png)
 
 
  
@@ -152,7 +152,7 @@
 
 Если пользователь понимает язык python, он может напрямую изменить его в файле ** LunaTranslator\LunaTranslator\postprocess\post.py** , чтобы реализовать любой процесс обработки, который пожелает пользователь.
 
-<div align="center"><img src='./ru/pics/10_ru.png'></div>
+![img](pics/10_ru.png)
 
  
 
@@ -167,23 +167,23 @@
 
 После включения ** быстрого поиска слов**  щелкните исходный текст в окне перевода, и появится всплывающее окно поиска слов.
 
-<div align="center"><img src='./ru/pics/cishu_ru.png'></div>
+![img](pics/cishu_ru.png)
 
 
-<div align="center"><img src='./ru/pics/fenci_ru.png'></div>
-<div align="center"><img src='./ru/pics/searchword_ru.png'></div>
-<div align="center"><img src='./ru/pics/searchword2_ru.png'></div>
+![img](pics/fenci_ru.png)
+![img](pics/searchword_ru.png)
+![img](pics/searchword2_ru.png)
 
 ## Загрузка ресурсов и обновления
 
 Автоматические обновления и ссылки на некоторые популярные ресурсы.
 
 
-<div align="center"><img src='./ru/pics/down_ru.png'></div>
+![img](pics/down_ru.png)
  
 
 ## Настройка сочетания клавиш
 
 После включения ** использования сочетаний клавиш** , Вы можете настроить одну или сочетание двух клавиш на каждое действие.
 
-<div align="center"><img src='./ru/pics/quick_ru.png'></div>
+![img](pics/quick_ru.png)
