@@ -2,7 +2,7 @@
 # 托盘图标
 
 
-<div align="center"><img src='./docpics/trayicon.jpg'></div> 
+<div align="center"><img src='/zh/pics/trayicon.jpg'></div> 
 
 鼠标左键点击图标程序窗口将显示，再次点击图标窗口将隐藏
 

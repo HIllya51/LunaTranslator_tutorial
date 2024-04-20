@@ -3,11 +3,11 @@
 
 首先在基本设置中选择OCR，工具栏出现三个图标
 
-<div align="center"><img src='./docpics/toolbar2.jpg'></div> 
+<div align="center"><img src='/zh/pics/toolbar2.jpg'></div> 
 
 点击第一个按钮，选择截图范围，出现如图范围框。
 
-<div align="center"><img src='./docpics/12.jpg'></div>
+<div align="center"><img src='/zh/pics/12.jpg'></div>
 
 范围框点击第二个按钮可以隐藏/显示。
 
@@ -15,4 +15,4 @@
 
 如同为绑定了截图窗口下的样子，即时窗口互相重叠也可以正常OCR
 
-<div align="center"><img src='./docpics/ocrbind.jpg'></div>
+<div align="center"><img src='/zh/pics/ocrbind.jpg'></div>
