@@ -8,13 +8,13 @@
 
 Выберите используемый источник захвата текста. Розовая галочка означает выбранный, серый × означает не выбранный. Только одна или меньше опций может действовать одновременно.
 
-&emsp;&emsp;При выборе OCR в качестве ввода текста, необходимо выбрать диапазон распознавания OCR на панели инструментов.[➔ Об этом подробнее написано в пункте "Описание OCR"](/ru/ocrsetsumei.md)
+&emsp;&emsp;При выборе OCR в качестве ввода текста, необходимо выбрать диапазон распознавания OCR на панели инструментов.[➔ Об этом подробнее написано в пункте "Описание OCR"](./ocrsetsumei.md)
 
-&emsp;&emsp;После того, как Вы выберете Textractor (HOOK) в качестве ввода текста, появится окно выбора процесса, после выбора игры появится окно выбора текста.[➔ Об этом подробнее написано в пункте "Описание HOOK"](/ru/hooksetsumei.md)
+&emsp;&emsp;После того, как Вы выберете Textractor (HOOK) в качестве ввода текста, появится окно выбора процесса, после выбора игры появится окно выбора текста.[➔ Об этом подробнее написано в пункте "Описание HOOK"](./hooksetsumei.md)
 
 &emsp;&emsp;При выборе источника "буфер обмена", весь копируемый Вами текст будет автоматически извлекаться из буфера обмена и переводиться.
 
-<div align="center"><img src='./ru/5_ru.png'></div>
+<div align="center"><img src='./5_ru.png'></div>
 
 
 ## Настройки переводчиков
@@ -40,7 +40,7 @@
 
 Для предварительного перевода можно использовать нечеткое сопоставление (в основном эффективно для режима OCR).
 
-<div align="center"><img src='./ru/6_ru.png'></div>
+<div align="center"><img src='./6_ru.png'></div>
 
 
 ## Настройки HOOK
@@ -60,9 +60,9 @@
 Файлы также будут записаны в режиме буфера обмена и в режиме OCR с префиксом 0_copy и 0_ocr соответственно.
 
 
-[➔ Более полное описание смотри в "Описании HOOK"](/ru/hooksetsumei.md)
+[➔ Более полное описание смотри в "Описании HOOK"](./hooksetsumei.md)
 
-<div align="center"><img src='./ru/21_ru.png'></div>
+<div align="center"><img src='./21_ru.png'></div>
 
  
 ## Настройки OCR
@@ -79,9 +79,9 @@
 
 &emsp;&emsp;OCR срабатывает при изменении изображения на экране, но Вы можете установить минимальный и максимальный интервал OCR, после чего OCR должен выполняться каждые x секунд, независимо от того, меняется изображение или нет.
 
-[➔ Подробности смотри в "Описание OCR"](/ru/ocrsetsumei.md)
+[➔ Подробности смотри в "Описание OCR"](./ocrsetsumei.md)
 
-<div align="center"><img src='./ru/22_ru.png'></div>
+<div align="center"><img src='./22_ru.png'></div>
 
 
 ## Настройка окна перевода
@@ -99,22 +99,22 @@
 Вы можете ** выбрать контент в окне перевода** , а также настроить реакцию окна перевода на сворачивание игры в режиме HOOK.
 
 
-<div align="center"><img src='./ru/7_ru.png'></div>
+<div align="center"><img src='./7_ru.png'></div>
 
 Четыре стиля шрифта следующие:
 
-<div align="center"><img src='./ru/ziti1_ru.png'></div>
-<div align="center"><img src='./ru/ziti2_ru.png'></div>
-<div align="center"><img src='./ru/ziti3_ru.png'></div>
-<div align="center"><img src='./ru/ziti4_ru.png'></div>
+<div align="center"><img src='./ziti1_ru.png'></div>
+<div align="center"><img src='./ziti2_ru.png'></div>
+<div align="center"><img src='./ziti3_ru.png'></div>
+<div align="center"><img src='./ziti4_ru.png'></div>
 
 Кана отображается следующим образом:
 
-<div align="center"><img src='./ru/jiaming_ru.png'></div>
+<div align="center"><img src='./jiaming_ru.png'></div>
 
 Причастие отображается следующим образом:
 
-<div align="center"><img src='./ru/fenci_ru.png'></div>
+<div align="center"><img src='./fenci_ru.png'></div>
 
 
  
@@ -129,7 +129,7 @@
 
 ** VOICEVOX**  — это механизм TTS с открытым исходным кодом, но он медленно генерирует голос.
 
-<div align="center"><img src='./ru/8_ru.png'></div>
+<div align="center"><img src='./8_ru.png'></div>
 
 
  
@@ -152,7 +152,7 @@
 
 Если пользователь понимает язык python, он может напрямую изменить его в файле ** LunaTranslator\LunaTranslator\postprocess\post.py** , чтобы реализовать любой процесс обработки, который пожелает пользователь.
 
-<div align="center"><img src='./ru/10_ru.png'></div>
+<div align="center"><img src='./10_ru.png'></div>
 
  
 
@@ -167,23 +167,23 @@
 
 После включения ** быстрого поиска слов**  щелкните исходный текст в окне перевода, и появится всплывающее окно поиска слов.
 
-<div align="center"><img src='./ru/cishu_ru.png'></div>
+<div align="center"><img src='./cishu_ru.png'></div>
 
 
-<div align="center"><img src='./ru/fenci_ru.png'></div>
-<div align="center"><img src='./ru/searchword_ru.png'></div>
-<div align="center"><img src='./ru/searchword2_ru.png'></div>
+<div align="center"><img src='./fenci_ru.png'></div>
+<div align="center"><img src='./searchword_ru.png'></div>
+<div align="center"><img src='./searchword2_ru.png'></div>
 
 ## Загрузка ресурсов и обновления
 
 Автоматические обновления и ссылки на некоторые популярные ресурсы.
 
 
-<div align="center"><img src='./ru/down_ru.png'></div>
+<div align="center"><img src='./down_ru.png'></div>
  
 
 ## Настройка сочетания клавиш
 
 После включения ** использования сочетаний клавиш** , Вы можете настроить одну или сочетание двух клавиш на каждое действие.
 
-<div align="center"><img src='./ru/quick_ru.png'></div>
+<div align="center"><img src='./quick_ru.png'></div>

@@ -5,7 +5,7 @@
 
 Ссылка для загрузки актуальной версии программы: <a  target="_blank" href="https://github.com/HIllya51/LunaTranslator/releases">https://github.com/HIllya51/LunaTranslator/releases</a>
 Скачайте архив **LunaTranslator.zip** и распакуйте его в любое удобное для вас место.
-<div align="center"><img src='./ru/download_ru.png'></div>
+<div align="center"><img src='./download_ru.png'></div>
 
 ## Запустить
 
