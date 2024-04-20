@@ -5,7 +5,7 @@
 
 ## Общие кнопки (В режиме буфера обмена)
 
-<div align="center"><img src='/ru/pics/toolbar1_ru.png'></div> 
+<div align="center"><img src='./ru/pics/toolbar1_ru.png'></div> 
 
 
 
@@ -38,7 +38,7 @@
 
 ## Кнопки в режиме OCR
 
-<div align="center"><img src='/ru/pics/toolbar2_ru.png'></div> 
+<div align="center"><img src='./ru/pics/toolbar2_ru.png'></div> 
 
 > В режиме OCR будет на три кнопки больше, чем в режиме буфера обмена.
 
@@ -51,7 +51,7 @@
 
 ## HOOK模式按钮
 
-<div align="center"><img src='/ru/pics/toolbar3_ru.png'></div> 
+<div align="center"><img src='./ru/pics/toolbar3_ru.png'></div> 
 
 > В режиме HOOK будет на три кнопки больше, чем в режиме буфера обмена.
 
