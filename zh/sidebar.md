@@ -4,7 +4,7 @@
 
 - 最基本的使用
   - [获取软件和启动](/zh/start.md)
-  - [最基本的使用](/zh/toolbar.md) 
+  - [最基本的使用](/zh/basicuse.md) 
 
 - 使用方法
   - [工具栏](/zh/toolbar.md) 
