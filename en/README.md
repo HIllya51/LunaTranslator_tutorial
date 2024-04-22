@@ -55,30 +55,3 @@ Support almost all translation engines you can think of, including:
 &emsp;&emsp;**Japanese word segmentation and kana display** Support the use of built-in download-free word segmentation and kana display tools, and support the use of Mecab to optimize word segmentation and kana display
 
 &emsp;&emsp;**Word search** Support the use of primary school library, Lingers dictionary and EDICT (Japanese English) dictionary for word query
-
-## Resource download
- 
-
-<table>
-<tr><td>OCR-Simplified Chinese</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.34.5/zh.zip">zh.zip</a></td></tr>
-<tr><td>OCR-Traditional Chinese</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.34.5/cht.zip">cht.zip</a></td></tr>
-<tr><td>OCR-Korean</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.34.5/ko.zip">ko.zip</a></td></tr>
-<tr><td>Dictionary-MeCab</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/Mecab.zip">Mecab.zip</a></td></tr>
-<tr><td>Dictionary-Xiaoxiaoguan</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/xiaoxueguan.db">xiaoxueguan.db</a></td></tr>
-<tr><td>Dictionary-EDICT</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/edict.db">edict.db</a></td></tr>
-<tr><td>Dictionary-EDICT2</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.1.2/edict2">edict2</a></td></tr>
-<tr><td>Dictionary-JMdict</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.1.2/JMdict.xml">JMdict.xml</a></td></tr>
-<tr><td>Dictionary-Lingoes</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/Lingoes.zip">Lingoes.zip</a></td></tr>
-<tr><td>Translator-JBeijing7</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/JBeijing7.zip">JBeijing7.zip</a></td></tr>
-<tr><td>Translator-FastAIT</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/FastAIT09_Setup.25269.4101.zip">FastAIT09_Setup.25269.4101.zip</a></td></tr>
-<tr><td>Translator-DR.eye</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/DR.eye.zip">DR.eye.zip</a></td></tr>
-<tr><td>Locale-Locale-Emulator</td><td><a href="https://github.com/xupefei/Locale-Emulator/releases/download/v2.5.0.1/Locale.Emulator.2.5.0.1.zip">Locale.Emulator.2.5.0.1.zip</a></td></tr>
-<tr><td>Locale-Locale_Remulator</td><td><a href="https://github.com/InWILL/Locale_Remulator/releases/download/v1.5.0/Locale_Remulator.1.5.0.zip">Locale_Remulator.1.5.0.zip</a></td></tr>
-<tr><td>TTS-VoiceRoid2</td><td><a href="https://github.com/HIllya51/LunaTranslator/releases/download/v1.0/Yukari2.zip">Yukari2.zip</a></td></tr>
-<tr><td>TTS-VOICEVOX</td><td><a href="https://github.com/VOICEVOX/voicevox/releases/download/0.13.3/voicevox-windows-cpu-0.13.3.zip">voicevox-windows-cpu-0.13.3.zip</a></td></tr>
-</table>  
-
-</details>
-
-
- 
