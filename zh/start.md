@@ -1,14 +1,14 @@
-
-# 开始
- 
- 
+# 获取软件
 
 ## 下载
 
 从<a  target="_blank" href="https://github.com/HIllya51/LunaTranslator/releases">https://github.com/HIllya51/LunaTranslator/releases</a>的Assets获取最新下载链接
-下载LunaTranslator.zip文件
-解压到任意目录
-![img](pics/download.jpg)
+
+下载LunaTranslator.zip（32系统下载LunaTranslator_x86.zip），解压到任意目录
+
+！注意不要下错了下成源代码了！
+
+![img](pics/down.png)
 
 ## 启动
 
