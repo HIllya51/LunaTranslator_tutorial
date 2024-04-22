@@ -1,16 +1,18 @@
 
 # LunaTranslator 使用说明
 
-## 欢迎觉得有帮助的朋友一起完善。[文档地址](https://github.com/HIllya51/LunaTranslator_tutorial)
-
-
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/github/license/HIllya51/LunaTranslator"></a>
     <a href="https://github.com/HIllya51/LunaTranslator/releases"><img src="https://img.shields.io/github/v/release/HIllya51/LunaTranslator?color=ffa"></a>
     <a href="https://github.com/HIllya51/LunaTranslator/stargazers"><img src="https://img.shields.io/github/stars/HIllya51/LunaTranslator?color=ccf"></a>
     <a href="https://hillya51.github.io/LunaTranslator_tutorial/download.html" target="_blank"><img src="https://img.shields.io/badge/download-blue"/></a>
 </p>
- 
+
+## [文档地址](https://github.com/HIllya51/LunaTranslator_tutorial)
+
+欢迎觉得有帮助的朋友一起完善。
+
+
 ## 功能支持
 
 #### 文本源
