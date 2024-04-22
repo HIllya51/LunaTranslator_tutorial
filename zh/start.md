@@ -19,9 +19,10 @@
 ![img](pics/startup.png)
 
 
-**LunaTranslator.exe** 会以管理员权限启动，部分游戏需要管理员权限才能HOOK
+**LunaTranslator.exe** 会以普通模式启动 
 
-**LunaTranslator_no_Admin.exe** 会以普通模式启动 
+**LunaTranslator_admin.exe** 会以管理员权限启动，部分游戏需要管理员权限才能HOOK，仅这时需要使用这个，其他时候普通模式启动即可。
+
 
 
 ### 注意
