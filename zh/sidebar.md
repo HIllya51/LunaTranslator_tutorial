@@ -18,7 +18,10 @@
   - [HOOK说明](/zh/hooksetsumei.md)  -->
 
 - 软件更新
-  - [软件更新](/zh/update.md) 
+  - [软件更新](/zh/update.md)
+
+- 常见问题
+  - [常见问题](/zh/qas.md) 
   
 - 支持作者
   - [支持作者](/zh/support.md) 
