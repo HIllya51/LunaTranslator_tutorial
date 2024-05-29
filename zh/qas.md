@@ -1,6 +1,4 @@
 
-# 常见问题
+# [常见问题](https://github.com/HIllya51/LunaTranslator/issues?q=label%3AQ%26A) 
 
-1. **mecab 词性颜色要怎么才能用？**
-
-    https://github.com/HIllya51/LunaTranslator/issues/775
+<iframe src="https://github.com/HIllya51/LunaTranslator/issues?q=label%3AQ%26A" width="100%" height="500"></iframe>
