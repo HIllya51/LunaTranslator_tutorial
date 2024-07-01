@@ -6,3 +6,5 @@
 1. [chatgpt 离线怎么用](https://github.com/HIllya51/LunaTranslator/issues/797)
 
 1. [怎么自动划词进 anki](https://github.com/HIllya51/LunaTranslator/issues/796)
+
+1. [如何使用 gemini 免费 api](https://github.com/HIllya51/LunaTranslator/issues/863)
